@@ -1,0 +1,1 @@
+nb = input('choisir un nombre')
